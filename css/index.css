@@ -116,7 +116,7 @@ font-family: 'Roboto Serif', sans-serif;
         display: none;
     }
     .contenedor__formulario{
-        background-image: url("/img/pexels-irina-iriser-1090977.jpg");
+        background-image: url("../img/pexels-irina-iriser-1090977.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height: 100vh;
