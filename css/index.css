@@ -25,7 +25,7 @@ font-family: 'Roboto Serif', sans-serif;
     background-color: #CED9BF;
 }
 .contenedor__imagen{
-    background-image: url("/img/pexels-irina-iriser-1090977.jpg");
+    background-image: url("../img/pexels-irina-iriser-1090977.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
